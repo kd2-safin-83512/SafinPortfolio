@@ -1,2 +1,2 @@
 # SafinPortfolio
-Check It Here --- https://safincoder.github.io/SafinPortfolio/
+Check It Out Here --- https://safincoder.github.io/SafinPortfolio/
